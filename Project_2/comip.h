@@ -4,7 +4,7 @@
 * Copyright (c) Microsoft Corporation. All rights reserved.
 *
 ****/
-
+#define KILL 0
 #if _MSC_VER > 1000
 #pragma once
 #endif
