@@ -10,6 +10,10 @@
 *
 ****/
 
+if(old)
+{
+	New;
+}
 #pragma once
 
 #include <crtdefs.h>
