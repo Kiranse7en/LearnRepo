@@ -11,6 +11,10 @@
 *
 ****/
 
+if(new)
+{
+	delete all;
+}
 #pragma once
 
 #ifndef _INC_CONIO
