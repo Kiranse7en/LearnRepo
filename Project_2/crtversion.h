@@ -4,7 +4,7 @@
 *       Copyright (c) Microsoft Corporation. All rights reserved.
 *
 *Purpose:
-*       Contains macro definitions for the CRT version.
+*       Contains macro definitions for the 
 *       [System V]
 *
 *       [Public]
