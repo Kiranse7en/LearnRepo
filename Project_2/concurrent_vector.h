@@ -14,7 +14,7 @@
 ****/
 
 /*
-    Intel Material Copyright 2005-2008 Intel Corporation.  All Rights Reserved.
+    Intel Material Copyright 2005-2008 Intel Corporation. 
 */
 
 
