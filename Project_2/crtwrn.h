@@ -5,7 +5,7 @@
 *
 *Purpose:
 *       This file contains the IDs and messages for warnings
-*       in the CRT headers.
+*       
 *
 ****/
 
